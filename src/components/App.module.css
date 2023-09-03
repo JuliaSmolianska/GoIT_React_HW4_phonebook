@@ -15,8 +15,6 @@ h1 {
 
 .label {
   line-height: 1.5;
-  text-align: center !important;
-  justify-content: left;
 }
 
 .button_add {
@@ -68,4 +66,7 @@ h1 {
 }
 .error {
   color: red;
+}
+.list {
+  text-align: left !important;
 }
